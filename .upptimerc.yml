@@ -15,8 +15,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.truesafeweb.com.br
-  # baseUrl: /your-repo-name
+  # cname: status.truesafeweb.com.br
+  baseUrl: /TrueSafe-Web-Status-Page
   logoUrl: https://www.truesafeweb.com.br/imagens/logo_truesafe.png
   name: TrueSafe-Web
   introTitle: "Página de Status e monitoramento dos serviços do TrueSafe Web"
