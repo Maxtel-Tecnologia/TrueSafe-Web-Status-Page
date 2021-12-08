@@ -1,23 +1,5 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
-    "slug": "google",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 97,
-    "timeDay": 97,
-    "timeWeek": 97,
-    "timeMonth": 97,
-    "timeYear": 97,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "TrueSafe Web (https)",
     "url": "https://www.truesafeweb.com.br",
     "icon": "https://favicons.githubusercontent.com/www.truesafeweb.com.br",
@@ -28,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 970,
-    "timeDay": 970,
-    "timeWeek": 970,
-    "timeMonth": 970,
-    "timeYear": 970,
+    "time": 925,
+    "timeDay": 925,
+    "timeWeek": 925,
+    "timeMonth": 925,
+    "timeYear": 925,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1667,
-    "timeDay": 1667,
-    "timeWeek": 1667,
-    "timeMonth": 1667,
-    "timeYear": 1667,
+    "time": 1613,
+    "timeDay": 1613,
+    "timeWeek": 1613,
+    "timeMonth": 1613,
+    "timeYear": 1613,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 937,
-    "timeDay": 937,
-    "timeWeek": 937,
-    "timeMonth": 937,
-    "timeYear": 937,
+    "time": 984,
+    "timeDay": 984,
+    "timeWeek": 984,
+    "timeMonth": 984,
+    "timeYear": 984,
     "dailyMinutesDown": {}
   }
 ]
