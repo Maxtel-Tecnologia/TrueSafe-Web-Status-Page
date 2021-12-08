@@ -27,7 +27,7 @@ status-website:
   logoUrl: https://www.truesafeweb.com.br/imagens/logo_truesafe.png
   favicon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
   name: TrueSafe Web
-  introTitle: "Status Page"
+  introTitle: "Página de Status"
   introMessage: Página destinada ao monitoramento e status dos serviços do TrueSafe Web
   theme: light
   navbar:
