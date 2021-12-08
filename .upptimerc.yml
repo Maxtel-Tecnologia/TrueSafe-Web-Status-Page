@@ -5,10 +5,16 @@ repo: TrueSafe-Web-Status-Page # The name of this repository
 sites:
   - name: TrueSafe Web (https)
     url: https://www.truesafeweb.com.br
+    icon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
+    maxResponseTime: 5000
   - name: TrueSafe Pass (https)
     url: https://www.truesafepass.com.br
+    maxResponseTime: 5000    
   - name: TrueSafe Pass Dashboard
     url: https://dashboard.truesafepass.com.br
+    maxResponseTime: 5000    
+  - name: TrueSafe pagina invalida (index2.php)
+    url: https://www.truesafeweb.com.br/index2.php    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -16,12 +22,17 @@ status-website:
   # cname: status.truesafeweb.com.br
   baseUrl: /TrueSafe-Web-Status-Page
   logoUrl: https://www.truesafeweb.com.br/imagens/logo_truesafe.png
+  favicon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
   name: TrueSafe Web
   introTitle: "Status Page"
   introMessage: Página destinada ao monitoramento e status dos serviços do TrueSafe Web
+  theme: light
   navbar:
     - title: Status
       href: /TrueSafe-Web-Status-Page
+    - title: Maxtel
+      href: https://www.maxtel.com.br
+  
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
