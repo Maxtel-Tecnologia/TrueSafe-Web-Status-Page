@@ -3,6 +3,10 @@ owner: Maxtel-Tecnologia # Your GitHub organization or username, where this repo
 repo: TrueSafe-Web-Status-Page # The name of this repository
 
 sites:
+  - name: Status Teste
+    url: https://www.truesafeweb.com.br/status_teste.php
+    icon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
+    maxResponseTime: 5000
   - name: TrueSafe Web Site
     url: $STATUS_SITE
     icon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
@@ -79,26 +83,26 @@ i18n:
   ms: ms
   loading: Carregando
   footer: Maxtel Tecnologia Ltda
-  rateLimitExceededTitle: Rate limit exceeded
-  rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
-  rateLimitExceededWhatDoesErrorMean: What does this error mean?
-  rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
-  rateLimitExceededErrorHowCanFix: How can I fix it?
-  rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
-  rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
-  rateLimitExceededHasSet: You have a personal access token set.
-  rateLimitExceededRemoveToken: Remove token
-  rateLimitExceededGitHubPAT: GitHub Personal Access Token
-  rateLimitExceededCopyPastePAT: Copy and paste your token
-  rateLimitExceededSaveToken: Save token
+  rateLimitExceededTitle: Limite excedido
+  rateLimitExceededIntro: Você excedeu o número de solicitações que pode fazer em uma hora, então terá que esperar antes de acessar este site novamente.
+  rateLimitExceededWhatDoesErrorMean: O que esse erro significa?
+  rateLimitExceededErrorMeaning: Este site usa a API do GitHub para acessar dados em tempo real sobre o status de nossos sites. Por padrão, o GitHub permite a cada endereço IP 60 solicitações por hora, que você consumiu.
+  rateLimitExceededErrorHowCanFix: Como posso corrigir isso?
+  rateLimitExceededErrorFix: Você pode esperar por mais uma hora e o limite do seu endereço IP será restaurada.
+  rateLimitExceededGeneratePAT: Aprenda a gerar um token de acesso pessoal
+  rateLimitExceededHasSet: Você tem um conjunto de tokens de acesso pessoal.
+  rateLimitExceededRemoveToken: Remover token
+  rateLimitExceededGitHubPAT: Token de acesso pessoal do GitHub
+  rateLimitExceededCopyPastePAT: Copie e cole seu token
+  rateLimitExceededSaveToken: Salvar token
   errorTitle: Ocorreu um erro
-  errorIntro: An error occurred in trying to get the latest status details.
-  errorText: You can try again in a few moments.
+  errorIntro: Ocorreu um erro ao tentar obter os detalhes de status mais recentes.
+  errorText: Tente novamente em alguns instantes.
   errorHome: Ir para página inicial
   pastScheduledMaintenance: Manutenções agendadas anteriores
   scheduledMaintenance: Manutenção Agendada
-  scheduledMaintenanceSummaryStarted: Started at $DATE for $DURATION minutes
-  scheduledMaintenanceSummaryStarts: Starts at $DATE for $DURATION minutes
+  scheduledMaintenanceSummaryStarted: Comceçou em $DATE por $DURATION minutos
+  scheduledMaintenanceSummaryStarts: Começa em $DATE por $DURATION minutos
   startedAt: Iniciou em
   startsAt: Inicia em
   duration: Duração
