@@ -3,16 +3,20 @@ owner: Maxtel-Tecnologia # Your GitHub organization or username, where this repo
 repo: TrueSafe-Web-Status-Page # The name of this repository
 
 sites:
-  - name: TrueSafe Web
+  - name: TrueSafe Web Site
     url: https://www.truesafeweb.com.br
     icon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
     maxResponseTime: 5000
-  - name: TrueSafe Pass
+  - name: TrueSafe Pass Site
     url: https://www.truesafepass.com.br
     icon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
     maxResponseTime: 5000
   - name: TrueSafe Pass Dashboard
     url: https://dashboard.truesafepass.com.br
+    icon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
+    maxResponseTime: 5000
+  - name: TrueSafe Pass Admin
+    url: https://admin.truesafepass.com.br
     icon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
     maxResponseTime: 5000
 
@@ -24,14 +28,12 @@ status-website:
   logoUrl: https://www.truesafeweb.com.br/imagens/logo_truesafe.png
   favicon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
   name: TrueSafe Web
-  introTitle: "Página de Status"
-  introMessage: Página destinada ao monitoramento e status dos serviços do TrueSafe Web
-  theme: light
+  introTitle: "Status Services"
+  introMessage: Página de monitoramento e status dos serviços do TrueSafe Web
+  theme: dark
   navbar:
-    - title: Status
-      href: /TrueSafe-Web-Status-Page
-    - title: Maxtel
-      href: https://www.maxtel.com.br
+    - title: Home
+      href: /
   
 
 # Upptime also supports notifications, assigning issues, and more
@@ -39,7 +41,7 @@ status-website:
 
 i18n:
   activeIncidents: Incidentes Ativos
-  allSystemsOperational: Todos os sistemas estão operacionais
+  allSystemsOperational: Todos os sistemas estão OK
   activeIncidentSummary: Aberto em $DATE com $POSTS postagens
   incidentTitle: Incidente $NUMBER Detalhes
   incidentDetails: Detalhes do Incidente
@@ -50,14 +52,14 @@ i18n:
   incidentSubscribe: Inscreva-se para atualizações
   incidentViewOnGitHub: Ver no GitHub
   incidentCommentSummary: Postado em $DATE por $AUTHOR
-  incidentBack: ← Voltar para todos os incidentes
+  incidentBack: ← Voltar
   pastIncidents: Últimos Incidentes
   pastIncidentsResolved: Resolvido em $MINUTES minutos com $POSTS postagens
   liveStatus: Status Atual
   overallUptimeTitle: Tempo de Atividade Geral
   averageResponseTime: "Tempo médio de resposta: $TIMEms"
   averageResponseTimeTitle: Resposta Média
-  sevelDayResponseTime: Últimos 7 dias
+  sevelDayResponseTime: Últimos Registros
   responseTimeMs: Tempo resposta (ms)
   up: ativo
   down: com problema
