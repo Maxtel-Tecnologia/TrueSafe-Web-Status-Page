@@ -30,7 +30,7 @@ status-website:
   name: TrueSafe Web
   introTitle: "Status Services"
   introMessage: Página de monitoramento e status dos serviços do TrueSafe Web
-  theme: ocean
+  theme: light
   navbar:
     - title: Home
       href: /
