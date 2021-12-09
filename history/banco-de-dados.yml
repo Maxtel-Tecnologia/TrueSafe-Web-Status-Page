@@ -1,7 +1,7 @@
 url: $STATUS_BD
-status: down
-code: 503
+status: up
+code: 200
 responseTime: 117
-lastUpdated: 2021-12-09T05:33:42.023Z
+lastUpdated: 2021-12-09T05:46:10.051Z
 startTime: Thu Dec 09 2021 04:45:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
