@@ -4,7 +4,19 @@ repo: TrueSafe-Web-Status-Page # The name of this repository
 
 sites:
   - name: TrueSafe Web Site
-    url: https://www.truesafeweb.com.br
+    url: $STATUS_SITE
+    icon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
+    maxResponseTime: 5000
+  - name: Banco de Dados
+    url: $STATUS_BD
+    icon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
+    maxResponseTime: 5000
+  - name: User BD Site
+    url: $STATUS_USERBD_SITE
+    icon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
+    maxResponseTime: 5000
+  - name: User BD Comunics
+    url: $STATUS_USERBD_COMUNICS
     icon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
     maxResponseTime: 5000
   - name: TrueSafe Pass Site
