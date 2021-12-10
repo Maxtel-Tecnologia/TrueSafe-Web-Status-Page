@@ -62,9 +62,9 @@ workflowSchedule:
   responseTime: "0 */3 * * *"
   graphs: "10 */3 * * *"
   summary: "10 */3 * * *"
-  updateTemplate: "10 */3 * * *"
   staticSite: "20 */3 * * *"
   updates: "30 */3 * * *"
+  updateTemplate: "0 0 * * *"
   
 i18n:
   activeIncidents: Incidentes Ativos
