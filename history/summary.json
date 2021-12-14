@@ -4,18 +4,20 @@
     "url": "https://www.truesafeweb.com.br/status_teste.php",
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
     "slug": "status-teste-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 738,
-    "timeDay": 746,
+    "timeDay": 743,
     "timeWeek": 738,
     "timeMonth": 738,
     "timeYear": 738,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 0
+    }
   },
   {
     "name": "TrueSafe Web Site",
