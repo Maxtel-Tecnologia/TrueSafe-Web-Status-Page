@@ -1,25 +1,21 @@
 [
   {
-    "name": "Status Teste Site",
-    "url": "$STATUS_SITE_TESTE",
+    "name": "Teste 2",
+    "url": "$STATUS_CHECK",
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
-    "slug": "status-teste-site",
-    "status": "down",
-    "uptime": "92.46%",
-    "uptimeDay": "87.26%",
-    "uptimeWeek": "92.46%",
-    "uptimeMonth": "92.46%",
-    "uptimeYear": "92.46%",
-    "time": 756,
-    "timeDay": 792,
-    "timeWeek": 756,
-    "timeMonth": 756,
-    "timeYear": 756,
-    "dailyMinutesDown": {
-      "2021-12-16": 0,
-      "2021-12-15": 710,
-      "2021-12-14": 18
-    }
+    "slug": "teste-2",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 943,
+    "timeDay": 943,
+    "timeWeek": 943,
+    "timeMonth": 943,
+    "timeYear": 943,
+    "dailyMinutesDown": {}
   },
   {
     "name": "TrueSafe Web Site",
@@ -32,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 224,
+    "time": 223,
     "timeDay": 133,
     "timeWeek": 135,
-    "timeMonth": 224,
-    "timeYear": 224,
+    "timeMonth": 223,
+    "timeYear": 223,
     "dailyMinutesDown": {}
   },
   {
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 129,
-    "timeDay": 135,
-    "timeWeek": 129,
-    "timeMonth": 129,
-    "timeYear": 129,
+    "time": 130,
+    "timeDay": 136,
+    "timeWeek": 130,
+    "timeMonth": 130,
+    "timeYear": 130,
     "dailyMinutesDown": {}
   },
   {
@@ -70,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 128,
     "timeDay": 136,
-    "timeWeek": 128,
+    "timeWeek": 129,
     "timeMonth": 128,
     "timeYear": 128,
     "dailyMinutesDown": {}
@@ -86,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 130,
-    "timeDay": 134,
-    "timeWeek": 131,
-    "timeMonth": 130,
-    "timeYear": 130,
+    "time": 131,
+    "timeDay": 135,
+    "timeWeek": 132,
+    "timeMonth": 131,
+    "timeYear": 131,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1518,
-    "timeDay": 1577,
-    "timeWeek": 1537,
-    "timeMonth": 1518,
-    "timeYear": 1518,
+    "time": 1521,
+    "timeDay": 1591,
+    "timeWeek": 1540,
+    "timeMonth": 1521,
+    "timeYear": 1521,
     "dailyMinutesDown": {}
   },
   {
@@ -117,18 +113,18 @@
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
     "slug": "true-safe-pass-dashboard",
     "status": "down",
-    "uptime": "98.82%",
-    "uptimeDay": "92.10%",
-    "uptimeWeek": "98.82%",
-    "uptimeMonth": "98.82%",
-    "uptimeYear": "98.82%",
+    "uptime": "98.77%",
+    "uptimeDay": "91.72%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "98.77%",
+    "uptimeYear": "98.77%",
     "time": 939,
     "timeDay": 1032,
     "timeWeek": 943,
     "timeMonth": 939,
     "timeYear": 939,
     "dailyMinutesDown": {
-      "2021-12-16": 114
+      "2021-12-16": 119
     }
   },
   {
@@ -137,18 +133,18 @@
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
     "slug": "true-safe-pass-admin",
     "status": "down",
-    "uptime": "98.82%",
-    "uptimeDay": "92.10%",
-    "uptimeWeek": "98.82%",
-    "uptimeMonth": "98.82%",
-    "uptimeYear": "98.82%",
+    "uptime": "98.77%",
+    "uptimeDay": "91.72%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "98.77%",
+    "uptimeYear": "98.77%",
     "time": 841,
     "timeDay": 917,
     "timeWeek": 852,
     "timeMonth": 841,
     "timeYear": 841,
     "dailyMinutesDown": {
-      "2021-12-16": 114
+      "2021-12-16": 119
     }
   }
 ]
