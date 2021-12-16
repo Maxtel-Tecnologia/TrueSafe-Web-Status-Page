@@ -4,19 +4,19 @@
     "url": "$STATUS_CHECK",
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
     "slug": "teste-2",
-    "status": "degraded",
-    "uptime": "99.94%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 1052,
-    "timeDay": 1052,
-    "timeWeek": 1052,
-    "timeMonth": 1052,
-    "timeYear": 1052,
+    "status": "up",
+    "uptime": "95.45%",
+    "uptimeDay": "95.45%",
+    "uptimeWeek": "95.45%",
+    "uptimeMonth": "95.45%",
+    "uptimeYear": "95.45%",
+    "time": 1033,
+    "timeDay": 1033,
+    "timeWeek": 1033,
+    "timeMonth": 1033,
+    "timeYear": 1033,
     "dailyMinutesDown": {
-      "2021-12-16": 0
+      "2021-12-16": 8
     }
   },
   {
