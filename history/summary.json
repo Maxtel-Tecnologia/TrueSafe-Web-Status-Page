@@ -5,11 +5,11 @@
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
     "slug": "status-teste-site",
     "status": "up",
-    "uptime": "92.24%",
-    "uptimeDay": "68.63%",
-    "uptimeWeek": "92.24%",
-    "uptimeMonth": "92.24%",
-    "uptimeYear": "92.24%",
+    "uptime": "92.37%",
+    "uptimeDay": "79.38%",
+    "uptimeWeek": "92.37%",
+    "uptimeMonth": "92.37%",
+    "uptimeYear": "92.37%",
     "time": 757,
     "timeDay": 825,
     "timeWeek": 757,
@@ -115,9 +115,9 @@
     "url": "https://dashboard.truesafepass.com.br",
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
     "slug": "true-safe-pass-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -126,16 +126,18 @@
     "timeWeek": 943,
     "timeMonth": 939,
     "timeYear": 939,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-16": 0
+    }
   },
   {
     "name": "TrueSafe Pass Admin",
     "url": "https://admin.truesafepass.com.br",
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
     "slug": "true-safe-pass-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -144,6 +146,8 @@
     "timeWeek": 852,
     "timeMonth": 841,
     "timeYear": 841,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-16": 0
+    }
   }
 ]
