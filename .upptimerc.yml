@@ -31,6 +31,10 @@ sites:
     url: https://admin.truesafepass.com.br
     icon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
     maxResponseTime: 2000
+  - name: Clientes Cloud
+    url: $STATUS_CLIENTS_CLOUD
+    icon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
+    maxResponseTime: 120000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
