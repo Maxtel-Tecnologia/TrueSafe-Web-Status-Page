@@ -4,7 +4,7 @@ repo: TrueSafe-Web-Status-Page # The name of this repository
 
 sites:
   - name: Status_Teste_Site
-    url: https://www.truesafeweb.com.br/status_teste.php
+    url: $STATUS_BD_TESTE
     icon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
     maxResponseTime: 5000
   - name: TrueSafe Web Site
