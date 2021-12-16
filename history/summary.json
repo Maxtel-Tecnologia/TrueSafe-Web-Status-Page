@@ -134,19 +134,19 @@
     "url": "$STATUS_CLIENTS_CLOUD",
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
     "slug": "clientes-cloud",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 13727,
-    "timeDay": 13727,
-    "timeWeek": 13727,
-    "timeMonth": 13727,
-    "timeYear": 13727,
+    "status": "up",
+    "uptime": "92.33%",
+    "uptimeDay": "92.33%",
+    "uptimeWeek": "92.33%",
+    "uptimeMonth": "92.33%",
+    "uptimeYear": "92.33%",
+    "time": 13886,
+    "timeDay": 13886,
+    "timeWeek": 13886,
+    "timeMonth": 13886,
+    "timeYear": 13886,
     "dailyMinutesDown": {
-      "2021-12-16": 0
+      "2021-12-16": 9
     }
   }
 ]
