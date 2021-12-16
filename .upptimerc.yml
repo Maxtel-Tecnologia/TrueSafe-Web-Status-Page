@@ -3,38 +3,34 @@ owner: Maxtel-Tecnologia # Your GitHub organization or username, where this repo
 repo: TrueSafe-Web-Status-Page # The name of this repository
 
 sites:
-  - name: Teste 2
-    url: $STATUS_CHECK
-    icon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
-    maxResponseTime: 5000
   - name: TrueSafe Web Site
     url: $STATUS_SITE
     icon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
-    maxResponseTime: 5000
+    maxResponseTime: 500
   - name: Banco Dados
     url: $STATUS_BD
     icon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
-    maxResponseTime: 5000
+    maxResponseTime: 500
   - name: User BD Site
     url: $STATUS_USERBD_SITE
     icon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
-    maxResponseTime: 5000
+    maxResponseTime: 500
   - name: User BD Comunics
     url: $STATUS_USERBD_COMUNICS
     icon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
-    maxResponseTime: 5000
+    maxResponseTime: 500
   - name: TrueSafe Pass Site
     url: https://www.truesafepass.com.br
     icon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
-    maxResponseTime: 5000
+    maxResponseTime: 2000
   - name: TrueSafe Pass Dashboard
     url: https://dashboard.truesafepass.com.br
     icon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
-    maxResponseTime: 5000
+    maxResponseTime: 2000
   - name: TrueSafe Pass Admin
     url: https://admin.truesafepass.com.br
     icon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
-    maxResponseTime: 5000
+    maxResponseTime: 2000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
