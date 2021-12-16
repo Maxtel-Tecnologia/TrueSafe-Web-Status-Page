@@ -4,18 +4,20 @@
     "url": "$STATUS_CHECK",
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
     "slug": "teste-2",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 876,
-    "timeDay": 876,
-    "timeWeek": 876,
-    "timeMonth": 876,
-    "timeYear": 876,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "98.38%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "98.38%",
+    "uptimeYear": "98.38%",
+    "time": 863,
+    "timeDay": 863,
+    "timeWeek": 863,
+    "timeMonth": 863,
+    "timeYear": 863,
+    "dailyMinutesDown": {
+      "2021-12-16": 0
+    }
   },
   {
     "name": "TrueSafe Web Site",
@@ -113,18 +115,18 @@
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
     "slug": "true-safe-pass-dashboard",
     "status": "down",
-    "uptime": "98.70%",
-    "uptimeDay": "91.25%",
-    "uptimeWeek": "98.70%",
-    "uptimeMonth": "98.70%",
-    "uptimeYear": "98.70%",
+    "uptime": "98.66%",
+    "uptimeDay": "91.02%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "98.66%",
+    "uptimeYear": "98.66%",
     "time": 939,
     "timeDay": 1032,
     "timeWeek": 943,
     "timeMonth": 939,
     "timeYear": 939,
     "dailyMinutesDown": {
-      "2021-12-16": 126
+      "2021-12-16": 129
     }
   },
   {
@@ -133,18 +135,18 @@
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
     "slug": "true-safe-pass-admin",
     "status": "down",
-    "uptime": "98.70%",
-    "uptimeDay": "91.25%",
-    "uptimeWeek": "98.70%",
-    "uptimeMonth": "98.70%",
-    "uptimeYear": "98.70%",
+    "uptime": "98.66%",
+    "uptimeDay": "91.02%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "98.66%",
+    "uptimeYear": "98.66%",
     "time": 841,
     "timeDay": 917,
     "timeWeek": 852,
     "timeMonth": 841,
     "timeYear": 841,
     "dailyMinutesDown": {
-      "2021-12-16": 126
+      "2021-12-16": 129
     }
   }
 ]
