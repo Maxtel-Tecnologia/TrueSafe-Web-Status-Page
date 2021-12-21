@@ -95,11 +95,11 @@
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
     "slug": "true-safe-pass-dashboard",
     "status": "up",
-    "uptime": "99.18%",
+    "uptime": "99.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.67%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "99.18%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.19%",
     "time": 937,
     "timeDay": 925,
     "timeWeek": 956,
@@ -115,11 +115,11 @@
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
     "slug": "true-safe-pass-admin",
     "status": "up",
-    "uptime": "99.18%",
+    "uptime": "99.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.67%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "99.18%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.19%",
     "time": 833,
     "timeDay": 814,
     "timeWeek": 841,
@@ -134,9 +134,9 @@
     "url": "$STATUS_CLIENTS_CLOUD",
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
     "slug": "clientes-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -145,6 +145,8 @@
     "timeWeek": 11065,
     "timeMonth": 11065,
     "timeYear": 11065,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-21": 0
+    }
   }
 ]
