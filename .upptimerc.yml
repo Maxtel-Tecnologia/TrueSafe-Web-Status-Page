@@ -20,7 +20,7 @@ sites:
     icon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
     maxResponseTime: 500
   - name: TrueSafe Pass Site
-    url: https://www.truesafepass.com.br
+    url: $STATUS_SITE_TS_PASS
     icon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
     maxResponseTime: 2000
   - name: TrueSafe Pass Dashboard
