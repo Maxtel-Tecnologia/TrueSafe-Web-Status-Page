@@ -77,18 +77,18 @@
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
     "slug": "true-safe-pass-site",
     "status": "up",
-    "uptime": "99.52%",
-    "uptimeDay": "93.79%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.52%",
+    "uptime": "99.55%",
+    "uptimeDay": "94.18%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
     "time": 1713,
     "timeDay": 2813,
     "timeWeek": 1880,
     "timeMonth": 1713,
     "timeYear": 1713,
     "dailyMinutesDown": {
-      "2021-12-22": 90
+      "2021-12-22": 84
     }
   },
   {
