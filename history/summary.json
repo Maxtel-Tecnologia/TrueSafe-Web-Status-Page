@@ -76,18 +76,20 @@
     "url": "https://www.truesafepass.com.br",
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
     "slug": "true-safe-pass-site",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1550,
-    "timeDay": 1553,
-    "timeWeek": 1585,
-    "timeMonth": 1550,
-    "timeYear": 1550,
-    "dailyMinutesDown": {}
+    "time": 1625,
+    "timeDay": 2577,
+    "timeWeek": 1734,
+    "timeMonth": 1625,
+    "timeYear": 1625,
+    "dailyMinutesDown": {
+      "2021-12-22": 0
+    }
   },
   {
     "name": "TrueSafe Pass Dashboard",
@@ -102,7 +104,7 @@
     "uptimeYear": "99.27%",
     "time": 940,
     "timeDay": 935,
-    "timeWeek": 949,
+    "timeWeek": 950,
     "timeMonth": 940,
     "timeYear": 940,
     "dailyMinutesDown": {
