@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 130,
     "timeDay": 129,
-    "timeWeek": 133,
+    "timeWeek": 132,
     "timeMonth": 130,
     "timeYear": 130,
     "dailyMinutesDown": {}
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.75%",
-    "time": 1344,
-    "timeDay": 760,
+    "time": 1341,
+    "timeDay": 758,
     "timeWeek": 767,
-    "timeMonth": 1344,
-    "timeYear": 1344,
+    "timeMonth": 1341,
+    "timeYear": 1341,
     "dailyMinutesDown": {
       "2021-12-22": 84
     }
@@ -103,8 +103,8 @@
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.60%",
     "time": 943,
-    "timeDay": 1002,
-    "timeWeek": 958,
+    "timeDay": 998,
+    "timeWeek": 959,
     "timeMonth": 943,
     "timeYear": 943,
     "dailyMinutesDown": {
@@ -123,8 +123,8 @@
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.60%",
     "time": 841,
-    "timeDay": 871,
-    "timeWeek": 858,
+    "timeDay": 878,
+    "timeWeek": 859,
     "timeMonth": 841,
     "timeYear": 841,
     "dailyMinutesDown": {
@@ -137,16 +137,16 @@
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
     "slug": "clientes-cloud",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 7702,
-    "timeDay": 4431,
-    "timeWeek": 5525,
-    "timeMonth": 7702,
-    "timeYear": 7702,
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 7671,
+    "timeDay": 4339,
+    "timeWeek": 5384,
+    "timeMonth": 7671,
+    "timeYear": 7671,
     "dailyMinutesDown": {
       "2021-12-21": 20
     }
