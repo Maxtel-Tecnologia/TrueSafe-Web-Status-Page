@@ -84,18 +84,19 @@
     "url": "$STATUS_TSPASS",
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
     "slug": "true-safe-pass-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.81%",
     "time": 1224,
     "timeDay": 843,
     "timeWeek": 820,
-    "timeMonth": 1216,
+    "timeMonth": 1215,
     "timeYear": 1224,
     "dailyMinutesDown": {
+      "2022-01-09": 0,
       "2021-12-22": 84
     }
   },
@@ -133,7 +134,7 @@
     "time": 853,
     "timeDay": 979,
     "timeWeek": 902,
-    "timeMonth": 857,
+    "timeMonth": 858,
     "timeYear": 853,
     "dailyMinutesDown": {
       "2021-12-16": 134
