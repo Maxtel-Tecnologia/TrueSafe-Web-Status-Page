@@ -31,7 +31,7 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.93%",
     "time": 129,
-    "timeDay": 128,
+    "timeDay": 129,
     "timeWeek": 128,
     "timeMonth": 129,
     "timeYear": 129,
@@ -52,7 +52,7 @@
     "uptimeYear": "99.93%",
     "time": 128,
     "timeDay": 127,
-    "timeWeek": 127,
+    "timeWeek": 126,
     "timeMonth": 128,
     "timeYear": 128,
     "dailyMinutesDown": {
@@ -70,11 +70,11 @@
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.93%",
-    "time": 131,
-    "timeDay": 128,
-    "timeWeek": 133,
-    "timeMonth": 131,
-    "timeYear": 131,
+    "time": 132,
+    "timeDay": 168,
+    "timeWeek": 138,
+    "timeMonth": 132,
+    "timeYear": 132,
     "dailyMinutesDown": {
       "2022-01-07": 37
     }
@@ -85,18 +85,17 @@
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
     "slug": "true-safe-pass-site",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.81%",
-    "time": 1179,
-    "timeDay": 641,
-    "timeWeek": 819,
-    "timeMonth": 1131,
-    "timeYear": 1179,
+    "uptime": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.83%",
+    "time": 1178,
+    "timeDay": 706,
+    "timeWeek": 814,
+    "timeMonth": 1127,
+    "timeYear": 1178,
     "dailyMinutesDown": {
-      "2022-01-13": 13,
       "2021-12-22": 84
     }
   },
@@ -111,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.73%",
-    "time": 946,
-    "timeDay": 952,
-    "timeWeek": 950,
-    "timeMonth": 951,
-    "timeYear": 946,
+    "time": 945,
+    "timeDay": 957,
+    "timeWeek": 947,
+    "timeMonth": 950,
+    "timeYear": 945,
     "dailyMinutesDown": {
       "2021-12-16": 134
     }
@@ -131,11 +130,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.73%",
-    "time": 852,
-    "timeDay": 872,
+    "time": 851,
+    "timeDay": 802,
     "timeWeek": 863,
-    "timeMonth": 853,
-    "timeYear": 852,
+    "timeMonth": 854,
+    "timeYear": 851,
     "dailyMinutesDown": {
       "2021-12-16": 134
     }
@@ -151,11 +150,11 @@
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
-    "time": 6285,
-    "timeDay": 5828,
-    "timeWeek": 4448,
-    "timeMonth": 6285,
-    "timeYear": 6285,
+    "time": 6283,
+    "timeDay": 6138,
+    "timeWeek": 4488,
+    "timeMonth": 6283,
+    "timeYear": 6283,
     "dailyMinutesDown": {
       "2022-01-07": 37,
       "2021-12-21": 20
