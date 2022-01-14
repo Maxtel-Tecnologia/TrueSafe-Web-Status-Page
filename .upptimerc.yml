@@ -6,31 +6,24 @@ sites:
   - name: TrueSafe Web Site
     url: $STATUS_SITE
     icon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
-    maxResponseTime: 500
   - name: Banco Dados
     url: $STATUS_BD
     icon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
-    maxResponseTime: 500
   - name: User BD Site
     url: $STATUS_USERBD_SITE
     icon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
-    maxResponseTime: 500
   - name: User BD Comunics
     url: $STATUS_USERBD_COMUNICS
     icon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
-    maxResponseTime: 500
   - name: TrueSafe Pass Site
     url: $STATUS_TSPASS
     icon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
-    maxResponseTime: 2000
   - name: TrueSafe Pass Dashboard
     url: https://dashboard.truesafepass.com.br
     icon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
-    maxResponseTime: 2000
   - name: TrueSafe Pass Admin
     url: https://admin.truesafepass.com.br
     icon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
-    maxResponseTime: 2000
   - name: Clientes Cloud
     url: $STATUS_CLIENTS_CLOUD
     icon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
