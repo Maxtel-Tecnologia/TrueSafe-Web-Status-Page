@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.93%",
-    "time": 184,
+    "time": 185,
     "timeDay": 793,
-    "timeWeek": 333,
-    "timeMonth": 171,
-    "timeYear": 184,
+    "timeWeek": 343,
+    "timeMonth": 173,
+    "timeYear": 185,
     "dailyMinutesDown": {
       "2022-01-07": 37
     }
@@ -31,7 +31,7 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.93%",
     "time": 131,
-    "timeDay": 163,
+    "timeDay": 164,
     "timeWeek": 138,
     "timeMonth": 132,
     "timeYear": 131,
@@ -72,7 +72,7 @@
     "uptimeYear": "99.93%",
     "time": 131,
     "timeDay": 121,
-    "timeWeek": 136,
+    "timeWeek": 135,
     "timeMonth": 131,
     "timeYear": 131,
     "dailyMinutesDown": {
@@ -90,11 +90,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.81%",
-    "time": 1161,
-    "timeDay": 870,
-    "timeWeek": 837,
-    "timeMonth": 1082,
-    "timeYear": 1161,
+    "time": 1160,
+    "timeDay": 869,
+    "timeWeek": 832,
+    "timeMonth": 1080,
+    "timeYear": 1160,
     "dailyMinutesDown": {
       "2022-01-13": 17,
       "2021-12-22": 84
@@ -112,9 +112,9 @@
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.75%",
     "time": 944,
-    "timeDay": 897,
-    "timeWeek": 929,
-    "timeMonth": 948,
+    "timeDay": 910,
+    "timeWeek": 912,
+    "timeMonth": 947,
     "timeYear": 944,
     "dailyMinutesDown": {
       "2021-12-16": 134
@@ -132,8 +132,8 @@
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.75%",
     "time": 849,
-    "timeDay": 766,
-    "timeWeek": 845,
+    "timeDay": 778,
+    "timeWeek": 839,
     "timeMonth": 852,
     "timeYear": 849,
     "dailyMinutesDown": {
@@ -151,11 +151,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
-    "time": 6372,
-    "timeDay": 8238,
-    "timeWeek": 5485,
-    "timeMonth": 6372,
-    "timeYear": 6372,
+    "time": 6388,
+    "timeDay": 8721,
+    "timeWeek": 5606,
+    "timeMonth": 6388,
+    "timeYear": 6388,
     "dailyMinutesDown": {
       "2022-01-07": 37,
       "2021-12-21": 20
