@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
-    "time": 222,
+    "time": 223,
     "timeDay": 700,
-    "timeWeek": 577,
-    "timeMonth": 229,
-    "timeYear": 222,
+    "timeWeek": 587,
+    "timeMonth": 231,
+    "timeYear": 223,
     "dailyMinutesDown": {
       "2022-01-07": 37
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
     "time": 127,
-    "timeDay": 118,
+    "timeDay": 119,
     "timeWeek": 124,
-    "timeMonth": 127,
+    "timeMonth": 126,
     "timeYear": 127,
     "dailyMinutesDown": {
       "2022-01-07": 37
@@ -73,7 +73,7 @@
     "time": 131,
     "timeDay": 119,
     "timeWeek": 130,
-    "timeMonth": 131,
+    "timeMonth": 130,
     "timeYear": 131,
     "dailyMinutesDown": {
       "2022-01-07": 37
@@ -90,11 +90,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.83%",
-    "time": 1133,
-    "timeDay": 712,
+    "time": 1131,
+    "timeDay": 713,
     "timeWeek": 777,
-    "timeMonth": 988,
-    "timeYear": 1133,
+    "timeMonth": 984,
+    "timeYear": 1131,
     "dailyMinutesDown": {
       "2022-01-13": 17,
       "2021-12-22": 84
@@ -112,7 +112,7 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.72%",
     "time": 1017,
-    "timeDay": 881,
+    "timeDay": 902,
     "timeWeek": 1378,
     "timeMonth": 1046,
     "timeYear": 1017,
@@ -133,8 +133,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.72%",
     "time": 849,
-    "timeDay": 777,
-    "timeWeek": 837,
+    "timeDay": 810,
+    "timeWeek": 839,
     "timeMonth": 851,
     "timeYear": 849,
     "dailyMinutesDown": {
@@ -153,11 +153,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.88%",
-    "time": 6387,
-    "timeDay": 3587,
-    "timeWeek": 6577,
-    "timeMonth": 6096,
-    "timeYear": 6387,
+    "time": 6385,
+    "timeDay": 3879,
+    "timeWeek": 6596,
+    "timeMonth": 6067,
+    "timeYear": 6385,
     "dailyMinutesDown": {
       "2022-01-07": 37,
       "2021-12-21": 20
