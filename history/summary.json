@@ -86,7 +86,7 @@
     "slug": "true-safe-pass-site",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.94%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.83%",
@@ -96,7 +96,6 @@
     "timeMonth": 941,
     "timeYear": 1116,
     "dailyMinutesDown": {
-      "2022-01-20": 1,
       "2022-01-13": 17,
       "2021-12-22": 84
     }
