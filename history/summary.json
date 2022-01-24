@@ -105,10 +105,10 @@
     "url": "https://dashboard.truesafepass.com.br",
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
     "slug": "true-safe-pass-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.75%",
     "time": 1008,
@@ -117,6 +117,7 @@
     "timeMonth": 1048,
     "timeYear": 1008,
     "dailyMinutesDown": {
+      "2022-01-24": 1,
       "2022-01-17": 29,
       "2021-12-16": 134
     }
@@ -126,9 +127,9 @@
     "url": "https://admin.truesafepass.com.br",
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
     "slug": "true-safe-pass-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.75%",
@@ -138,6 +139,7 @@
     "timeMonth": 852,
     "timeYear": 847,
     "dailyMinutesDown": {
+      "2022-01-24": 0,
       "2022-01-17": 28,
       "2021-12-16": 134
     }
