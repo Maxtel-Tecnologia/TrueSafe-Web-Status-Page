@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
-    "time": 280,
-    "timeDay": 767,
-    "timeWeek": 750,
-    "timeMonth": 336,
-    "timeYear": 280,
+    "time": 281,
+    "timeDay": 765,
+    "timeWeek": 747,
+    "timeMonth": 338,
+    "timeYear": 281,
     "dailyMinutesDown": {
       "2022-01-07": 37
     }
@@ -31,7 +31,7 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
     "time": 131,
-    "timeDay": 132,
+    "timeDay": 131,
     "timeWeek": 128,
     "timeMonth": 131,
     "timeYear": 131,
@@ -52,7 +52,7 @@
     "uptimeYear": "99.94%",
     "time": 127,
     "timeDay": 129,
-    "timeWeek": 127,
+    "timeWeek": 126,
     "timeMonth": 126,
     "timeYear": 127,
     "dailyMinutesDown": {
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.85%",
-    "time": 1092,
+    "time": 1091,
     "timeDay": 763,
-    "timeWeek": 750,
+    "timeWeek": 748,
     "timeMonth": 786,
-    "timeYear": 1092,
+    "timeYear": 1091,
     "dailyMinutesDown": {
       "2022-01-13": 17,
       "2021-12-22": 84
@@ -112,8 +112,8 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.75%",
     "time": 1009,
-    "timeDay": 978,
-    "timeWeek": 1394,
+    "timeDay": 988,
+    "timeWeek": 1393,
     "timeMonth": 1044,
     "timeYear": 1009,
     "dailyMinutesDown": {
@@ -133,8 +133,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.75%",
     "time": 847,
-    "timeDay": 878,
-    "timeWeek": 838,
+    "timeDay": 872,
+    "timeWeek": 837,
     "timeMonth": 851,
     "timeYear": 847,
     "dailyMinutesDown": {
@@ -153,11 +153,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.90%",
-    "time": 6389,
-    "timeDay": 8383,
-    "timeWeek": 6009,
-    "timeMonth": 5678,
-    "timeYear": 6389,
+    "time": 6397,
+    "timeDay": 8411,
+    "timeWeek": 6008,
+    "timeMonth": 5688,
+    "timeYear": 6397,
     "dailyMinutesDown": {
       "2022-01-07": 37,
       "2021-12-21": 20
