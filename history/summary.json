@@ -149,9 +149,9 @@
     "url": "$STATUS_CLIENTS_CLOUD",
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
     "slug": "clientes-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.91%",
@@ -161,6 +161,7 @@
     "timeMonth": 6239,
     "timeYear": 6820,
     "dailyMinutesDown": {
+      "2022-01-31": 0,
       "2022-01-07": 37,
       "2021-12-21": 20
     }
