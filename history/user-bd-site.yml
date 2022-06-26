@@ -1,7 +1,7 @@
 url: $STATUS_USERBD_SITE
-status: down
-code: 502
-responseTime: 161
-lastUpdated: 2022-06-26T17:54:38.668Z
+status: up
+code: 200
+responseTime: 116
+lastUpdated: 2022-06-26T18:01:19.323Z
 startTime: Thu Dec 09 2021 20:53:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
