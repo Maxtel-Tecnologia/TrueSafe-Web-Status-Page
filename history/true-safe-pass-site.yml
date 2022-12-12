@@ -1,7 +1,7 @@
 url: $STATUS_TSPASS
-status: up
-code: 200
-responseTime: 754
-lastUpdated: 2022-12-12T18:12:57.636Z
+status: down
+code: 404
+responseTime: 574
+lastUpdated: 2022-12-12T21:09:46.925Z
 startTime: Thu Dec 09 2021 20:53:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
