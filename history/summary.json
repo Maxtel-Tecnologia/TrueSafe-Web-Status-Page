@@ -11,9 +11,9 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.93%",
     "time": 765,
-    "timeDay": 803,
+    "timeDay": 790,
     "timeWeek": 866,
-    "timeMonth": 864,
+    "timeMonth": 863,
     "timeYear": 777,
     "dailyMinutesDown": {
       "2022-12-10": 83,
@@ -36,7 +36,7 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.92%",
     "time": 161,
-    "timeDay": 136,
+    "timeDay": 134,
     "timeWeek": 148,
     "timeMonth": 145,
     "timeYear": 161,
@@ -63,7 +63,7 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.94%",
     "time": 154,
-    "timeDay": 133,
+    "timeDay": 132,
     "timeWeek": 146,
     "timeMonth": 144,
     "timeYear": 155,
@@ -88,7 +88,7 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.94%",
     "time": 149,
-    "timeDay": 133,
+    "timeDay": 131,
     "timeWeek": 146,
     "timeMonth": 144,
     "timeYear": 150,
@@ -108,12 +108,12 @@
     "slug": "true-safe-pass-site",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "94.44%",
+    "uptimeDay": "97.61%",
     "uptimeWeek": "98.40%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.91%",
     "time": 830,
-    "timeDay": 745,
+    "timeDay": 706,
     "timeWeek": 762,
     "timeMonth": 776,
     "timeYear": 816,
@@ -144,8 +144,8 @@
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.16%",
     "time": 1104,
-    "timeDay": 1037,
-    "timeWeek": 1235,
+    "timeDay": 1044,
+    "timeWeek": 1240,
     "timeMonth": 1213,
     "timeYear": 1108,
     "dailyMinutesDown": {
@@ -158,8 +158,7 @@
       "2022-03-29": 23,
       "2022-02-02": 65,
       "2022-01-24": 21,
-      "2022-01-17": 29,
-      "2021-12-16": 134
+      "2022-01-17": 29
     }
   },
   {
@@ -168,15 +167,15 @@
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
     "slug": "true-safe-pass-admin",
     "status": "up",
-    "uptime": "99.17%",
+    "uptime": "99.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.16%",
     "time": 989,
-    "timeDay": 969,
-    "timeWeek": 1103,
-    "timeMonth": 1092,
+    "timeDay": 971,
+    "timeWeek": 1104,
+    "timeMonth": 1088,
     "timeYear": 992,
     "dailyMinutesDown": {
       "2022-12-08": 203,
@@ -188,8 +187,7 @@
       "2022-03-29": 22,
       "2022-02-02": 64,
       "2022-01-24": 20,
-      "2022-01-17": 28,
-      "2021-12-16": 134
+      "2022-01-17": 28
     }
   }
 ]
