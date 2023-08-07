@@ -15,9 +15,6 @@ sites:
   - name: User BD Comunics
     url: $STATUS_USERBD_COMUNICS
     icon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
-  - name: TrueSafe Pass Dashboard
-    url: https://dashboard.truesafepass.com.br
-    icon: https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
