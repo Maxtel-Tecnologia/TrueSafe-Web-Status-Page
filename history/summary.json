@@ -6,9 +6,9 @@
     "slug": "true-safe-web-site",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 791,
     "timeDay": 2916,
@@ -16,7 +16,6 @@
     "timeMonth": 924,
     "timeYear": 786,
     "dailyMinutesDown": {
-      "2023-10-16": 10,
       "2023-05-25": 752,
       "2023-05-12": 60,
       "2022-12-10": 83
