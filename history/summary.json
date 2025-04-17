@@ -4,19 +4,19 @@
     "url": "$STATUS_SITE",
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
     "slug": "true-safe-web-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1100,
-    "timeDay": 1067,
-    "timeWeek": 1094,
-    "timeMonth": 1147,
+    "timeDay": 1096,
+    "timeWeek": 1098,
+    "timeMonth": 1148,
     "timeYear": 1108,
     "dailyMinutesDown": {
-      "2025-04-17": 0
+      "2025-04-17": 5
     }
   },
   {
