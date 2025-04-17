@@ -4,9 +4,9 @@
     "url": "$STATUS_SITE",
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
     "slug": "true-safe-web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1094,
     "timeMonth": 1147,
     "timeYear": 1108,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-17": 0
+    }
   },
   {
     "name": "TrueSafe App API",
