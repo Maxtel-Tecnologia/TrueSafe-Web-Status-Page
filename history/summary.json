@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1105,
-    "timeDay": 1002,
+    "timeDay": 1021,
     "timeWeek": 1165,
-    "timeMonth": 1127,
+    "timeMonth": 1126,
     "timeYear": 1114,
     "dailyMinutesDown": {}
   },
@@ -23,20 +23,17 @@
     "icon": "https://app.truesafe.com.br/imagens/logo_truesafe.png",
     "slug": "true-safe-app-api",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 934,
-    "timeDay": 835,
-    "timeWeek": 1099,
-    "timeMonth": 1004,
+    "timeDay": 849,
+    "timeWeek": 1098,
+    "timeMonth": 1005,
     "timeYear": 941,
-    "dailyMinutesDown": {
-      "2025-02-28": 17,
-      "2024-05-06": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "User BD Site",
@@ -50,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 125,
-    "timeWeek": 153,
+    "timeDay": 128,
+    "timeWeek": 154,
     "timeMonth": 146,
     "timeYear": 147,
     "dailyMinutesDown": {}
@@ -68,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 122,
-    "timeWeek": 144,
+    "timeDay": 124,
+    "timeWeek": 145,
     "timeMonth": 141,
     "timeYear": 142,
     "dailyMinutesDown": {}
