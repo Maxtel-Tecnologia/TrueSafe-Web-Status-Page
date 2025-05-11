@@ -5,18 +5,18 @@
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
     "slug": "true-safe-web-site",
     "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptime": "99.87%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 1114,
-    "timeDay": 1181,
-    "timeWeek": 1229,
-    "timeMonth": 1176,
+    "timeDay": 1172,
+    "timeWeek": 1230,
+    "timeMonth": 1175,
     "timeYear": 1125,
     "dailyMinutesDown": {
-      "2025-05-11": 2
+      "2025-05-11": 21
     }
   },
   {
@@ -26,17 +26,17 @@
     "slug": "true-safe-app-api",
     "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 941,
-    "timeDay": 912,
-    "timeWeek": 964,
-    "timeMonth": 999,
+    "timeDay": 860,
+    "timeWeek": 963,
+    "timeMonth": 997,
     "timeYear": 948,
     "dailyMinutesDown": {
-      "2025-05-11": 2,
+      "2025-05-11": 20,
       "2025-02-28": 17
     }
   },
@@ -47,17 +47,17 @@
     "slug": "user-bd-site",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 195,
+    "timeDay": 198,
     "timeWeek": 154,
     "timeMonth": 153,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2025-05-11": 1
+      "2025-05-11": 20
     }
   },
   {
@@ -67,17 +67,17 @@
     "slug": "user-bd-comunics",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 146,
+    "timeDay": 143,
     "timeWeek": 144,
     "timeMonth": 142,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2025-05-11": 1
+      "2025-05-11": 19
     }
   }
 ]
