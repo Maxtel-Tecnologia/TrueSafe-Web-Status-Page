@@ -1,7 +1,7 @@
 url: $STATUS_USERBD_SITE
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-02-18T08:05:51.008Z
+status: up
+code: 200
+responseTime: 437
+lastUpdated: 2026-02-18T08:58:22.678Z
 startTime: 2021-12-09T20:53:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
