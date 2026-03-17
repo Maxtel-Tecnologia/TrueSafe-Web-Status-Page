@@ -1,7 +1,7 @@
 url: $STATUS_APP_API
-status: down
-code: 404
-responseTime: 958
-lastUpdated: 2026-03-17T15:42:31.804Z
+status: up
+code: 200
+responseTime: 1043
+lastUpdated: 2026-03-17T15:58:32.193Z
 startTime: 2023-01-17T13:02:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
