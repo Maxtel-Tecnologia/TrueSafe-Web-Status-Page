@@ -1,7 +1,7 @@
 url: $STATUS_USERBD_COMUNICS
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-04-29T16:24:14.933Z
+status: up
+code: 200
+responseTime: 152
+lastUpdated: 2026-04-29T16:58:58.476Z
 startTime: 2021-12-09T20:53:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
