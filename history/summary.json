@@ -4,17 +4,17 @@
     "url": "$STATUS_SITE",
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
     "slug": "true-safe-web-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "98.06%",
-    "uptimeWeek": "99.03%",
-    "uptimeMonth": "98.44%",
-    "uptimeYear": "99.09%",
+    "uptimeDay": "97.21%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "98.41%",
+    "uptimeYear": "99.08%",
     "time": 1179,
-    "timeDay": 1005,
-    "timeWeek": 1140,
-    "timeMonth": 1189,
-    "timeYear": 1182,
+    "timeDay": 994,
+    "timeWeek": 1135,
+    "timeMonth": 1187,
+    "timeYear": 1181,
     "dailyMinutesDown": {
       "2025-11-24": 28,
       "2026-01-22": 17,
@@ -54,7 +54,7 @@
       "2026-05-04": 86,
       "2026-05-16": 49,
       "2026-05-22": 70,
-      "2026-05-24": 28
+      "2026-05-24": 40
     }
   },
   {
@@ -62,16 +62,16 @@
     "url": "$STATUS_APP_API",
     "icon": "https://app.truesafe.com.br/imagens/logo_truesafe.png",
     "slug": "true-safe-app-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "98.38%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "98.67%",
+    "uptimeDay": "97.55%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "98.64%",
     "uptimeYear": "98.67%",
-    "time": 1015,
-    "timeDay": 1037,
-    "timeWeek": 1026,
-    "timeMonth": 1144,
+    "time": 1016,
+    "timeDay": 1148,
+    "timeWeek": 1043,
+    "timeMonth": 1147,
     "timeYear": 1018,
     "dailyMinutesDown": {
       "2025-06-09": 27,
@@ -122,7 +122,7 @@
       "2026-05-01": 26,
       "2026-05-16": 45,
       "2026-05-22": 65,
-      "2026-05-24": 23
+      "2026-05-24": 35
     }
   },
   {
@@ -130,16 +130,16 @@
     "url": "$STATUS_USERBD_SITE",
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
     "slug": "user-bd-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "98.39%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "98.48%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "98.45%",
     "uptimeYear": "98.96%",
     "time": 182,
-    "timeDay": 427,
-    "timeWeek": 507,
-    "timeMonth": 426,
+    "timeDay": 417,
+    "timeWeek": 503,
+    "timeMonth": 425,
     "timeYear": 183,
     "dailyMinutesDown": {
       "2026-01-13": 31,
@@ -180,7 +180,7 @@
       "2026-05-04": 84,
       "2026-05-16": 44,
       "2026-05-22": 65,
-      "2026-05-24": 23
+      "2026-05-24": 35
     }
   },
   {
@@ -188,15 +188,15 @@
     "url": "$STATUS_USERBD_COMUNICS",
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
     "slug": "user-bd-comunics",
-    "status": "down",
+    "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "98.39%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "98.67%",
+    "uptimeDay": "97.58%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "98.64%",
     "uptimeYear": "98.98%",
     "time": 171,
-    "timeDay": 430,
-    "timeWeek": 504,
+    "timeDay": 421,
+    "timeWeek": 501,
     "timeMonth": 406,
     "timeYear": 172,
     "dailyMinutesDown": {
@@ -236,7 +236,7 @@
       "2026-05-01": 27,
       "2026-05-16": 44,
       "2026-05-22": 65,
-      "2026-05-24": 23
+      "2026-05-24": 35
     }
   }
 ]
