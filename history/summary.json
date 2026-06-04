@@ -4,11 +4,11 @@
     "url": "$STATUS_SITE",
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
     "slug": "true-safe-web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "90.83%",
-    "uptimeWeek": "94.76%",
-    "uptimeMonth": "98.43%",
+    "uptimeDay": "90.46%",
+    "uptimeWeek": "94.71%",
+    "uptimeMonth": "98.42%",
     "uptimeYear": "98.98%",
     "time": 1181,
     "timeDay": 1536,
@@ -58,7 +58,7 @@
       "2026-05-31": 24,
       "2026-06-01": 202,
       "2026-06-02": 171,
-      "2026-06-04": 132
+      "2026-06-04": 137
     }
   },
   {
@@ -66,10 +66,10 @@
     "url": "$STATUS_APP_API",
     "icon": "https://app.truesafe.com.br/imagens/logo_truesafe.png",
     "slug": "true-safe-app-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "91.17%",
-    "uptimeWeek": "94.95%",
+    "uptimeDay": "91.12%",
+    "uptimeWeek": "94.94%",
     "uptimeMonth": "98.51%",
     "uptimeYear": "98.57%",
     "time": 1017,
@@ -130,7 +130,7 @@
       "2026-05-31": 19,
       "2026-06-01": 197,
       "2026-06-02": 166,
-      "2026-06-04": 127
+      "2026-06-04": 128
     }
   },
   {
@@ -138,10 +138,10 @@
     "url": "$STATUS_USERBD_SITE",
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
     "slug": "user-bd-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "91.19%",
-    "uptimeWeek": "94.96%",
+    "uptimeDay": "91.14%",
+    "uptimeWeek": "94.95%",
     "uptimeMonth": "98.51%",
     "uptimeYear": "98.87%",
     "time": 190,
@@ -192,7 +192,7 @@
       "2026-05-31": 19,
       "2026-06-01": 197,
       "2026-06-02": 166,
-      "2026-06-04": 127
+      "2026-06-04": 128
     }
   },
   {
@@ -200,13 +200,13 @@
     "url": "$STATUS_USERBD_COMUNICS",
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
     "slug": "user-bd-comunics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "91.20%",
-    "uptimeWeek": "94.97%",
+    "uptimeDay": "91.16%",
+    "uptimeWeek": "94.96%",
     "uptimeMonth": "98.51%",
     "uptimeYear": "98.88%",
-    "time": 177,
+    "time": 178,
     "timeDay": 434,
     "timeWeek": 458,
     "timeMonth": 516,
@@ -252,7 +252,7 @@
       "2026-05-31": 18,
       "2026-06-01": 196,
       "2026-06-02": 166,
-      "2026-06-04": 127
+      "2026-06-04": 128
     }
   }
 ]
