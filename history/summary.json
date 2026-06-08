@@ -6,9 +6,9 @@
     "slug": "true-safe-web-site",
     "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "96.29%",
-    "uptimeMonth": "98.27%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "96.12%",
+    "uptimeMonth": "98.23%",
     "uptimeYear": "98.97%",
     "time": 1182,
     "timeDay": 1111,
@@ -59,7 +59,7 @@
       "2026-06-01": 202,
       "2026-06-02": 171,
       "2026-06-04": 198,
-      "2026-06-08": 5
+      "2026-06-08": 23
     }
   },
   {
@@ -68,10 +68,10 @@
     "icon": "https://app.truesafe.com.br/imagens/logo_truesafe.png",
     "slug": "true-safe-app-api",
     "status": "down",
-    "uptime": "99.40%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "96.48%",
-    "uptimeMonth": "98.37%",
+    "uptime": "99.39%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "96.31%",
+    "uptimeMonth": "98.33%",
     "uptimeYear": "98.56%",
     "time": 1018,
     "timeDay": 940,
@@ -132,7 +132,7 @@
       "2026-06-01": 197,
       "2026-06-02": 166,
       "2026-06-04": 188,
-      "2026-06-08": 1
+      "2026-06-08": 18
     }
   },
   {
@@ -142,9 +142,9 @@
     "slug": "user-bd-site",
     "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "96.48%",
-    "uptimeMonth": "98.37%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "96.32%",
+    "uptimeMonth": "98.33%",
     "uptimeYear": "98.85%",
     "time": 193,
     "timeDay": 406,
@@ -195,7 +195,7 @@
       "2026-06-01": 197,
       "2026-06-02": 166,
       "2026-06-04": 188,
-      "2026-06-08": 1
+      "2026-06-08": 18
     }
   },
   {
@@ -205,9 +205,9 @@
     "slug": "user-bd-comunics",
     "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "96.49%",
-    "uptimeMonth": "98.37%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "96.32%",
+    "uptimeMonth": "98.34%",
     "uptimeYear": "98.87%",
     "time": 181,
     "timeDay": 409,
@@ -256,7 +256,7 @@
       "2026-06-01": 196,
       "2026-06-02": 166,
       "2026-06-04": 188,
-      "2026-06-08": 1
+      "2026-06-08": 18
     }
   }
 ]
