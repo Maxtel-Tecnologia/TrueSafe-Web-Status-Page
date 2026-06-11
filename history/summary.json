@@ -6,10 +6,10 @@
     "slug": "true-safe-web-site",
     "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "96.44%",
-    "uptimeMonth": "97.91%",
-    "uptimeYear": "98.94%",
+    "uptimeDay": "97.09%",
+    "uptimeWeek": "96.09%",
+    "uptimeMonth": "97.83%",
+    "uptimeYear": "98.93%",
     "time": 1182,
     "timeDay": 1222,
     "timeWeek": 1166,
@@ -61,7 +61,7 @@
       "2026-06-04": 198,
       "2026-06-08": 82,
       "2026-06-09": 73,
-      "2026-06-11": 7
+      "2026-06-11": 42
     }
   },
   {
@@ -71,10 +71,10 @@
     "slug": "true-safe-app-api",
     "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "96.67%",
-    "uptimeMonth": "98.03%",
-    "uptimeYear": "98.54%",
+    "uptimeDay": "97.41%",
+    "uptimeWeek": "96.33%",
+    "uptimeMonth": "97.95%",
+    "uptimeYear": "98.53%",
     "time": 1018,
     "timeDay": 994,
     "timeWeek": 1093,
@@ -135,7 +135,7 @@
       "2026-06-04": 188,
       "2026-06-08": 77,
       "2026-06-09": 68,
-      "2026-06-11": 2
+      "2026-06-11": 37
     }
   },
   {
@@ -145,10 +145,10 @@
     "slug": "user-bd-site",
     "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "96.68%",
-    "uptimeMonth": "98.04%",
-    "uptimeYear": "98.83%",
+    "uptimeDay": "97.41%",
+    "uptimeWeek": "96.33%",
+    "uptimeMonth": "97.96%",
+    "uptimeYear": "98.82%",
     "time": 195,
     "timeDay": 569,
     "timeWeek": 578,
@@ -200,7 +200,7 @@
       "2026-06-04": 188,
       "2026-06-08": 77,
       "2026-06-09": 68,
-      "2026-06-11": 2
+      "2026-06-11": 37
     }
   },
   {
@@ -210,9 +210,9 @@
     "slug": "user-bd-comunics",
     "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "96.69%",
-    "uptimeMonth": "98.04%",
+    "uptimeDay": "97.42%",
+    "uptimeWeek": "96.34%",
+    "uptimeMonth": "97.96%",
     "uptimeYear": "98.84%",
     "time": 183,
     "timeDay": 424,
@@ -263,7 +263,7 @@
       "2026-06-04": 188,
       "2026-06-08": 77,
       "2026-06-09": 67,
-      "2026-06-11": 2
+      "2026-06-11": 37
     }
   }
 ]
