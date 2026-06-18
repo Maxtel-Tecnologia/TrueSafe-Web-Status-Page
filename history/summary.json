@@ -4,13 +4,13 @@
     "url": "$STATUS_SITE",
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
     "slug": "true-safe-web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "93.49%",
-    "uptimeWeek": "90.18%",
-    "uptimeMonth": "95.67%",
+    "uptimeDay": "93.11%",
+    "uptimeWeek": "90.12%",
+    "uptimeMonth": "95.66%",
     "uptimeYear": "98.74%",
-    "time": 1182,
+    "time": 1183,
     "timeDay": 989,
     "timeWeek": 1090,
     "timeMonth": 1177,
@@ -67,7 +67,7 @@
       "2026-06-15": 113,
       "2026-06-16": 107,
       "2026-06-17": 201,
-      "2026-06-18": 94
+      "2026-06-18": 99
     }
   },
   {
@@ -75,10 +75,10 @@
     "url": "$STATUS_APP_API",
     "icon": "https://app.truesafe.com.br/imagens/logo_truesafe.png",
     "slug": "true-safe-app-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "93.82%",
-    "uptimeWeek": "90.56%",
+    "uptimeDay": "93.77%",
+    "uptimeWeek": "90.55%",
     "uptimeMonth": "95.87%",
     "uptimeYear": "98.35%",
     "time": 1021,
@@ -147,7 +147,7 @@
       "2026-06-15": 108,
       "2026-06-16": 102,
       "2026-06-17": 196,
-      "2026-06-18": 89
+      "2026-06-18": 90
     }
   },
   {
@@ -155,10 +155,10 @@
     "url": "$STATUS_USERBD_SITE",
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
     "slug": "user-bd-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "93.84%",
-    "uptimeWeek": "90.58%",
+    "uptimeDay": "93.78%",
+    "uptimeWeek": "90.57%",
     "uptimeMonth": "95.88%",
     "uptimeYear": "98.64%",
     "time": 200,
@@ -218,7 +218,7 @@
       "2026-06-15": 108,
       "2026-06-16": 102,
       "2026-06-17": 196,
-      "2026-06-18": 89
+      "2026-06-18": 90
     }
   },
   {
@@ -226,10 +226,10 @@
     "url": "$STATUS_USERBD_COMUNICS",
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
     "slug": "user-bd-comunics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "93.85%",
-    "uptimeWeek": "90.59%",
+    "uptimeDay": "93.80%",
+    "uptimeWeek": "90.58%",
     "uptimeMonth": "95.89%",
     "uptimeYear": "98.66%",
     "time": 189,
@@ -287,7 +287,7 @@
       "2026-06-15": 107,
       "2026-06-16": 101,
       "2026-06-17": 196,
-      "2026-06-18": 89
+      "2026-06-18": 90
     }
   }
 ]
