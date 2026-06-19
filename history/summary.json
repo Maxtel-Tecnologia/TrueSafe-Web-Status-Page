@@ -6,10 +6,10 @@
     "slug": "true-safe-web-site",
     "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "81.30%",
-    "uptimeWeek": "88.43%",
-    "uptimeMonth": "95.27%",
-    "uptimeYear": "98.71%",
+    "uptimeDay": "75.10%",
+    "uptimeWeek": "87.55%",
+    "uptimeMonth": "95.07%",
+    "uptimeYear": "98.69%",
     "time": 1182,
     "timeDay": 967,
     "timeWeek": 1091,
@@ -68,7 +68,7 @@
       "2026-06-16": 107,
       "2026-06-17": 201,
       "2026-06-18": 139,
-      "2026-06-19": 130
+      "2026-06-19": 220
     }
   },
   {
@@ -78,10 +78,10 @@
     "slug": "true-safe-app-api",
     "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "82.28%",
-    "uptimeWeek": "88.91%",
-    "uptimeMonth": "95.49%",
-    "uptimeYear": "98.32%",
+    "uptimeDay": "76.09%",
+    "uptimeWeek": "88.02%",
+    "uptimeMonth": "95.29%",
+    "uptimeYear": "98.30%",
     "time": 1021,
     "timeDay": 1649,
     "timeWeek": 1070,
@@ -149,7 +149,7 @@
       "2026-06-16": 102,
       "2026-06-17": 196,
       "2026-06-18": 130,
-      "2026-06-19": 126
+      "2026-06-19": 215
     }
   },
   {
@@ -159,10 +159,10 @@
     "slug": "user-bd-site",
     "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "82.31%",
-    "uptimeWeek": "88.93%",
-    "uptimeMonth": "95.50%",
-    "uptimeYear": "98.61%",
+    "uptimeDay": "76.12%",
+    "uptimeWeek": "88.04%",
+    "uptimeMonth": "95.30%",
+    "uptimeYear": "98.59%",
     "time": 200,
     "timeDay": 503,
     "timeWeek": 466,
@@ -221,7 +221,7 @@
       "2026-06-16": 102,
       "2026-06-17": 196,
       "2026-06-18": 129,
-      "2026-06-19": 126
+      "2026-06-19": 215
     }
   },
   {
@@ -231,10 +231,10 @@
     "slug": "user-bd-comunics",
     "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "82.35%",
-    "uptimeWeek": "88.95%",
-    "uptimeMonth": "95.51%",
-    "uptimeYear": "98.62%",
+    "uptimeDay": "76.15%",
+    "uptimeWeek": "88.06%",
+    "uptimeMonth": "95.31%",
+    "uptimeYear": "98.61%",
     "time": 189,
     "timeDay": 420,
     "timeWeek": 497,
@@ -291,7 +291,7 @@
       "2026-06-16": 101,
       "2026-06-17": 196,
       "2026-06-18": 129,
-      "2026-06-19": 126
+      "2026-06-19": 215
     }
   }
 ]
