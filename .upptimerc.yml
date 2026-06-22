@@ -38,13 +38,21 @@ notifications:
   - type: telegram
 
 workflowSchedule:
-  uptime: "*/5 * * * *"
-  responseTime: "0 */3 * * *"
-  graphs: "10 */3 * * *"
-  summary: "10 */3 * * *"
-  staticSite: "20 */3 * * *"
-  updates: "30 */3 * * *"
-  updateTemplate: "0 0 * * *"
+  #uptime: "*/5 * * * *"
+  #responseTime: "0 */3 * * *"
+  #graphs: "10 */3 * * *"
+  #summary: "10 */3 * * *"
+  #staticSite: "20 */3 * * *"
+  #updates: "30 */3 * * *"
+  #updateTemplate: "0 0 * * *"
+  uptime: "0 0 1 1 *"
+  responseTime: "5 0 1 1 *"
+  graphs: "10 0 1 1 *"
+  summary: "15 0 1 1 *"
+  staticSite: "20 0 1 1 *"
+  updates: "25 0 1 1 *"
+  updateTemplate: "30 0 1 1 *"
+  
   
 i18n:
   activeIncidents: Incidentes Ativos
