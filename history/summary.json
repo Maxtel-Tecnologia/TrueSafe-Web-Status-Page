@@ -6,9 +6,9 @@
     "slug": "true-safe-web-site",
     "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "85.41%",
-    "uptimeWeek": "86.84%",
-    "uptimeMonth": "93.82%",
+    "uptimeDay": "83.99%",
+    "uptimeWeek": "86.63%",
+    "uptimeMonth": "93.77%",
     "uptimeYear": "98.59%",
     "time": 1185,
     "timeDay": 1268,
@@ -71,7 +71,7 @@
       "2026-06-19": 342,
       "2026-06-20": 216,
       "2026-06-21": 82,
-      "2026-06-22": 128
+      "2026-06-22": 148
     }
   },
   {
@@ -81,9 +81,9 @@
     "slug": "true-safe-app-api",
     "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "86.39%",
-    "uptimeWeek": "87.41%",
-    "uptimeMonth": "94.10%",
+    "uptimeDay": "84.99%",
+    "uptimeWeek": "87.21%",
+    "uptimeMonth": "94.06%",
     "uptimeYear": "98.20%",
     "time": 1023,
     "timeDay": 1291,
@@ -155,7 +155,7 @@
       "2026-06-19": 337,
       "2026-06-20": 201,
       "2026-06-21": 77,
-      "2026-06-22": 119
+      "2026-06-22": 139
     }
   },
   {
@@ -165,9 +165,9 @@
     "slug": "user-bd-site",
     "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "86.74%",
-    "uptimeWeek": "87.48%",
-    "uptimeMonth": "94.13%",
+    "uptimeDay": "85.34%",
+    "uptimeWeek": "87.28%",
+    "uptimeMonth": "94.08%",
     "uptimeYear": "98.49%",
     "time": 212,
     "timeDay": 4513,
@@ -230,7 +230,7 @@
       "2026-06-19": 337,
       "2026-06-20": 201,
       "2026-06-21": 77,
-      "2026-06-22": 114
+      "2026-06-22": 134
     }
   },
   {
@@ -239,10 +239,10 @@
     "icon": "https://www.truesafeweb.com.br/imagens/icons/principal/truesafe.ico",
     "slug": "user-bd-comunics",
     "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "87.10%",
-    "uptimeWeek": "87.55%",
-    "uptimeMonth": "94.15%",
+    "uptime": "99.63%",
+    "uptimeDay": "85.70%",
+    "uptimeWeek": "87.35%",
+    "uptimeMonth": "94.10%",
     "uptimeYear": "98.51%",
     "time": 193,
     "timeDay": 458,
@@ -303,7 +303,7 @@
       "2026-06-19": 337,
       "2026-06-20": 200,
       "2026-06-21": 77,
-      "2026-06-22": 109
+      "2026-06-22": 129
     }
   }
 ]
